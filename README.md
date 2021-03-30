@@ -26,4 +26,4 @@ A gép amin futtatom:
 
 # Programok
 > Próbálok hozzáadni minnél több és sokrétűbb tesztet a gyűjteményhez.
-- 1.[Bubblesort🧼]("#1 bubblesort"/info.md)
+- 1.[Bubblesort🧼]("bubblesort"/info.md)
