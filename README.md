@@ -23,3 +23,7 @@ A gép amin futtatom:
 - C# ( _.NET 5.0_ )
 - Python ( _3.8.5_ )
 - Java ( _15.0.2_ )
+
+# Programok
+> Próbálok hozzáadni minnél több és sokrétűbb tesztet a gyűjteményhez.
+- 1. [Bubblesort🧼] (steflergabor/repos/Nyelvverseny/#1 bubblesort/info.md)
