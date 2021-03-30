@@ -17,7 +17,7 @@ A gép amin futtatom:
 - OS: Ubuntu 20.10
 # Nyelvek 📃
 > Próbálok rendszeresen újabb nyelveket hozzáadni.
->Ha van ötleted, hogyan tudnám jobban optimalizálni a kódot nyugodtan keress meg!
+>Ha van ötleted, hogyan tudnám jobban optimalizálni a kódot, nyugodtan keress meg!
 - C ( _GCC 9.3.0_ )
 - C++ ( _G++ 9.3.0_ )
 - C# ( _.NET 5.0_ )
