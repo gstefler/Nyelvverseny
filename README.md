@@ -24,6 +24,6 @@ A gép amin futtatom:
 - Python ( _3.8.5_ )
 - Java ( _15.0.2_ )
 
-# Programok
+# Tesztek
 > Próbálok hozzáadni minnél több és sokrétűbb tesztet a gyűjteményhez.
 - [Bubblesort🧼](bubblesort/info.md)
